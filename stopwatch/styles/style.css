@@ -6,12 +6,12 @@ body {
   height: auto; }
 
 .wrapper {
-  width: 800px;
+  width: 100%;
   margin: 30px;
   color: #fff;
   text-align: center; }
 
-h1, h2, h3 {
+h2 {
   font-family: 'Roboto', sans-serif;
   font-weight: 100;
   font-size: 2.6em;
