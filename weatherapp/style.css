@@ -174,8 +174,8 @@ body {
 
 /* FOOTER 
 ------------------------------------------ */
-.page-footer {
-    text-align: right;
+footer small {
+    text-align: center;
     font-size: 1rem;
     color: var(--text_light);
     margin-top: 40px;
