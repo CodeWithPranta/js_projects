@@ -3,6 +3,8 @@ If you are absolute beginner in JavaScript, practice some basic on JS then this 
 
 It will increase your modern css skill as well as.
 
+### All projects live demo link: https://dazzling-horse-ea5bfb.netlify.app/
+
 ## Projects List:
 1. Stopwatch using vanilla JS with modern sass file
 2. Digital Clock in JS
