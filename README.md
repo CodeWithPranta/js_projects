@@ -7,3 +7,4 @@ It will increase your modern css skill as well as.
 1. Stopwatch using vanilla JS with modern sass file
 2. Digital Clock in JS
 3. Weather app using Openweather free API including city search option and advanced css
+4. Simple but advanced with mechanism, calculator app in vanilla JavaScript. Real lif JS calculator
